@@ -1,0 +1,27 @@
+h1{
+    color:royalblue
+}
+/**{
+    border:solid;
+}*/
+.header {
+
+   background-color: cornflowerblue; 
+}
+.middle {
+    background-color: rgba(119, 195, 33, 0.993);
+}
+.game{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+p {
+    text-align: center;
+
+}
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
